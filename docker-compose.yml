@@ -1,0 +1,12 @@
+version: '2'
+services:
+  doc:
+    build:
+      context: ./
+    ports:
+      - "4000:4000"
+    container_name: "doc"
+    volumes:
+      - ./:/app
+    command: " npm run server "
+    tty: true
