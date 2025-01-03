@@ -228,11 +228,11 @@ footer:
     enable: true
     icp: 沪ICP备2024106083号-1
     # The digit in the num of gongan beian.
-    gongan_id:
+    gongan_id: 31011402021059
     # The full num of gongan beian.
-    gongan_num:
+    gongan_num: 沪公网安备31011402021059号
     # The icon for gongan beian. Login and See: https://beian.mps.gov.cn/web/business/businessHome/website
-    gongan_icon_url:
+    gongan_icon_url: https://qcloudimg.tencent-cloud.cn/raw/eed02831a0e201b8d794c8282c40cf2e.png
 
 
 # ---------------------------------------------------------------
