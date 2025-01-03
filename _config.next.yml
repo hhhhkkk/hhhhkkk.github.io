@@ -232,7 +232,7 @@ footer:
     # The full num of gongan beian.
     gongan_num: 沪公网安备31011402021059号
     # The icon for gongan beian. Login and See: https://beian.mps.gov.cn/web/business/businessHome/website
-    gongan_icon_url: https://beian.mps.gov.cn/img/logo01.dd7ff50e.png
+    gongan_icon_url: 
 
 
 # ---------------------------------------------------------------
